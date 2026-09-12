@@ -1,0 +1,7 @@
+backend:
+  repository: external/isaac
+  # Set this to your Isaac Sim 5.1 python.sh, or use --backend-python.
+  python: null
+  scene: EntornoPisoMesas_limpio.usda
+  robot_prim: /World/robot
+  headless: true

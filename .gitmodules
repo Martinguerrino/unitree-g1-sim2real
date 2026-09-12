@@ -1,0 +1,6 @@
+[submodule "external/mujoco"]
+	path = external/mujoco
+	url = https://github.com/Martinguerrino/UnitreeG1-Mujoco-FullStack.git
+[submodule "external/isaac"]
+	path = external/isaac
+	url = https://github.com/Martinguerrino/Humanoid-Assistant.git

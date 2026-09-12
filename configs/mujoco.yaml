@@ -1,0 +1,7 @@
+backend:
+  repository: external/mujoco
+  # null uses the Python running scripts/run.py
+  python: null
+  model: src/g1_mujoco/mjcf/g1_29dof.xml
+  scene: src/g1_mujoco/scenes/scene_29dof.xml
+  meshes: src/g1_description/meshes
